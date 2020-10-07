@@ -95,6 +95,8 @@ git push
 
 ### Continue with connecting your local repo with the remote repo.
 
+![drawing](https://i.stack.imgur.com/UvZ0M.png)
+
 - Pull requests
 
 - Merge code into the `main` branch
