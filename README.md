@@ -4,14 +4,14 @@
 
 Version control, also known as revision control or source control, is the management of changes to documents, computer programs, large websites, and other collections of information. Each revision is associated with a timestamp and the person making the change. Revisions can be compared, restored, and with some types of files, merged.
 
-Version control implements a systematic approach to recording and managing changes in files. At its simplest, version control involves taking ‘snapshots’ of your file at different stages. This snapshot records information about when the snapshot was made, and also about what changes occurred between different snapshots. This allows you to ‘rewind’ your file to an older version.
+Version control implements a systematic approach to recording and managing changes in files. At its simplest, version control involves taking **snapshots** of your file at different stages. This snapshot records information about when the snapshot was made, and also about what changes occurred between different snapshots. This allows you to **rewind** your file to an older version.
 
 #### Version control allows you to:
 
 - Track developments and changes in your files
 - Record the changes you made to your file in a way that you will be able to understand later
 - Experiment with different versions of a file while maintaining the original version
-- ‘Merge’ two versions of a file and manage conflicts between versions
+- Merge two versions of a file and manage conflicts between versions
 - Revert changes, moving ‘backward’ through your history to previous versions of your file.
 
 Some popular version control systems:
@@ -71,8 +71,8 @@ git config --list
 ```bash
 git init
 git status
-git add <file name>
-git commit -m “message”
+git add <file-name>
+git commit -m "message"
 git log
 ```
 
@@ -82,20 +82,17 @@ git log
 
 ### Connect to github
 
-![g9](https://i.imgur.com/sps8BQE.png)
+![drawing](https://i.stack.imgur.com/UvZ0M.png)
 
-```bash
-git remote add
-git push
-```
+- Create a `repo` without selecting the `README.md` option. For an example `g9` repo, then you will see this screen below.
+
+![g9](https://i.imgur.com/sps8BQE.png)
 
 - Let's continue with the exercise
 
 ---
 
 ### Continue with connecting your local repo with the remote repo.
-
-![drawing](https://i.stack.imgur.com/UvZ0M.png)
 
 - Pull requests
 
@@ -104,9 +101,9 @@ git push
 most basic command that you will use locally with remote
 
 ```bash
-git clone <remote link>
+git clone <remote-link>
 git branch
-git checkout -b <branch name>
+git checkout -b <branch-name>
 git pull origin main
 ```
 
