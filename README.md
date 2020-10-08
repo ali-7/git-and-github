@@ -94,7 +94,7 @@ git log  // Show commit logs
 
 ### Continue with connecting your local repo with the remote repo.
 
-- Pull requests
+- [Pull requests](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
 - Merge code into the `main` branch
 

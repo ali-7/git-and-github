@@ -18,7 +18,7 @@
 
 **Pulling:** the action of taking online Github commits and bringing them into your local machine
 
-**Main (branch):** the **trunk** of the commit history “tree”; contains all approved content/code
+**Main (branch):** the **trunk** of the commit history `tree`; contains all approved content/code
 
 **Feature branch:** an isolated location, based off of `main`, where you can write a new piece of work safely before reincorporating said changes back to `main`
 
