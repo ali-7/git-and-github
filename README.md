@@ -88,7 +88,7 @@ git log
 
 ![g9](https://i.imgur.com/sps8BQE.png)
 
-- Let's continue with the exercise
+- Let's do an [exercise](./exercises/ex2.md)
 
 ---
 
@@ -107,7 +107,7 @@ git checkout -b <branch-name>
 git pull origin main
 ```
 
-- Let's do an exercise
+- Let's do an [exercise](./exercises/ex2.md)
 
 ---
 
