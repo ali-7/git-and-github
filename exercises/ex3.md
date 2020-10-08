@@ -1,4 +1,6 @@
-**Exercise 3**
+### Exercise 3
+
+**You must use your terminal with the following steps.**
 
 - Create a repo on github with README
 - Clone the repo.
