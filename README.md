@@ -114,3 +114,7 @@ git pull origin main
 #### Note
 
 Recently on OCT/2020 , the default branch name changed on GitHub to be `main` instead of `master` previously, so be attentive when you came across any old or legacy code snippets about `master` branch
+
+---
+
+#### Git and GitHub [Glossary](./exercises/glossary.md)

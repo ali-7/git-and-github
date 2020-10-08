@@ -1,28 +1,29 @@
-Glossary
-Version Control: any system that allows you to understand the history of the file and how it has progressed
+### Glossary
 
-Git: a version control program which allows you to annotate the changes you make to create an easily traversable system history
+**Version Control:** any system that allows you to understand the history of the file and how it has progressed
 
-Commit: an annotated “snapshot” of the differences made to the system at a given point in time
+**Git:** a version control program which allows you to annotate the changes you make to create an easily traversable system history
 
-Local: refers to the computer you’re working on this very minute
+**Commit**: an annotated **snapshot** of the differences made to the system at a given point in time
 
-Remote: refers to an online location
+**Local:** refers to the computer you’re working on this very minute
 
-Repository (repo): a special folder configured with Git superpowers containing all the files pertaining to your project/system
+**Remote:** refers to an online location
 
-Github: takes your local commit history and hosts it remotely so that you can access it from any computer
+**Repository (repo):** a special folder configured with Git superpowers containing all the files pertaining to your project/system
 
-Pushing: the action of taking local Git commits (and whatever work these encompass) and putting them online on Github
+**Github:** takes your local commit history and hosts it remotely so that you can access it from any computer
 
-Pulling: the action of taking online Github commits and bringing them into your local machine
+**Pushing:** the action of taking local Git commits (and whatever work these encompass) and putting them online on Github
 
-Master (branch): the “trunk” of the commit history “tree”; contains all approved content/code
+**Pulling:** the action of taking online Github commits and bringing them into your local machine
 
-Feature branch: an isolated location, based off of master, where you can write a new piece of work safely before reincorporating said changes back to master
+**Main (branch):** the **trunk** of the commit history “tree”; contains all approved content/code
 
-Pull Request: a Github tool that allows users to easily see the changes (the difference or “diff”) that a feature branch is proposing as well as discuss any tweaks that said branch might require before it is merged into master
+**Feature branch:** an isolated location, based off of `main`, where you can write a new piece of work safely before reincorporating said changes back to `main`
 
-Merging: the action of taking the commits from a feature branch and adding them to the top of master’s history
+**Pull Request:** a Github tool that allows users to easily see the changes (the difference or **diff**) that a feature branch is proposing as well as discuss any tweaks that said branch might require before it is merged into `main`
 
-Checking out: the action of moving from one branch to another
+**Merging:** the action of taking the commits from a feature branch and adding them to the top of `main`’s history
+
+**Checking out:** the action of moving from one branch to another
