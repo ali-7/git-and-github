@@ -1,0 +1,4 @@
+- create a repo in your github account.
+- follow the instruction inside the folder you created before.
+- push your files into github.
+- check your repo now and see the change. 
