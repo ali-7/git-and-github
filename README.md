@@ -12,7 +12,7 @@ Version control implements a systematic approach to recording and managing chang
 - Record the changes you made to your file in a way that you will be able to understand later
 - Experiment with different versions of a file while maintaining the original version
 - Merge two versions of a file and manage conflicts between versions
-- Revert changes, moving ‘backward’ through your history to previous versions of your file.
+- Revert changes, moving **backward** through your history to previous versions of your file.
 
 Some popular version control systems:
 
@@ -69,20 +69,20 @@ git config --list
 - most basic command that you will use locally
 
 ```bash
-git init
-git status
-git add <file-name>
-git commit -m "message"
-git log
+git init     // Create an empty Git repository or reinitialize an existing one
+git status   // Show the working tree status and the staging area
+git add <file-name>  // Add files to the staging area
+git commit -m "message"  // Record changes to the repository (snapshot)
+git log  // Show commit logs
 ```
+
+![drawing](https://i.stack.imgur.com/UvZ0M.png)
 
 - Let's do an [exercise](./exercises/ex1.md)
 
 ---
 
 ### Connect to github
-
-![drawing](https://i.stack.imgur.com/UvZ0M.png)
 
 - Create a `repo` without selecting the `README.md` option. For an example `g9` repo, then you will see this screen below.
 
@@ -101,10 +101,10 @@ git log
 most basic command that you will use locally with remote
 
 ```bash
-git clone <remote-link>
-git branch
-git checkout -b <branch-name>
-git pull origin main
+git clone <remote-link>   // Download a remote repository into your local machine
+git branch  // List branches
+git checkout -b <branch-name>  // Create and go into the new branch
+git pull origin main  // Fetch changes from a remote repository into the current branch `main`
 ```
 
 - Let's do an [exercise](./exercises/ex3.md)
