@@ -76,7 +76,7 @@ git commit -m "message"
 git log
 ```
 
-- Let's do an exercise
+- Let's do an [exercise](./exercises/ex1.md)
 
 ---
 
