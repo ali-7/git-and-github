@@ -107,7 +107,7 @@ git checkout -b <branch-name>
 git pull origin main
 ```
 
-- Let's do an [exercise](./exercises/ex2.md)
+- Let's do an [exercise](./exercises/ex3.md)
 
 ---
 

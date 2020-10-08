@@ -1,10 +1,10 @@
-- create a repo on github with Readme
-- clone the repo.
-- create new branch 
-- create html file with Hello world
-- push it to github and create pull request and merge it to master.
-- checkout to your local master
-- pull the remote master 
-- redo the steps for styling the html file
+**Exercise 3**
 
-م
+- Create a repo on github with README
+- Clone the repo.
+- Create new branch
+- Create html file with Hello world
+- Push it to github and create pull request and merge it to main.
+- Checkout to your local main
+- Pull the remote main
+- Redo the steps for styling the html file
